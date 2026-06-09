@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[84359,["/sevae-site/_next/static/chunks/2yntxc4n6in80.js","/sevae-site/_next/static/chunks/14mrh2-p_w84d.js","/sevae-site/_next/static/chunks/0n5j3b59ldqw7.js"],"LetterStudio"]
+3:I[97367,["/sevae-site/_next/static/chunks/2yntxc4n6in80.js","/sevae-site/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","section",null,{"className":"wrap py-16 md:py-20","children":[["$","div",null,{"className":"mx-auto mb-12 max-w-2xl text-center","children":[["$","p",null,{"className":"eyebrow mb-4","children":"L'atelier d'écriture"}],["$","h1",null,{"className":"font-display text-4xl text-ink sm:text-5xl","children":"Écrivez ce que vous remettez toujours à demain."}],["$","p",null,{"className":"mt-5 text-lg leading-relaxed text-ink-soft","children":"Prenez quinze minutes. Cette lettre est à vous, et à vous seul : tout se passe sur votre appareil, rien n'est envoyé à Sevae. Quand vous voudrez la sceller pour de bon, nous serons prêts."}]]}],["$","$L2",null,{}]]}],[["$","script","script-0",{"src":"/sevae-site/_next/static/chunks/0n5j3b59ldqw7.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"S-_ROJgTpp_qmXi_IuPPD"}
+5:null
