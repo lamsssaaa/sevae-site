@@ -2,4 +2,4 @@
 2:I[39756,["/sevae-site/_next/static/chunks/2yntxc4n6in80.js","/sevae-site/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
 3:I[37457,["/sevae-site/_next/static/chunks/2yntxc4n6in80.js","/sevae-site/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
 4:[]
-0:{"rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"isPartial":false,"staleTime":300,"varyParams":"$W4","buildId":"fnDxqN6kxTv7jaX3qSc4i"}
+0:{"rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"isPartial":false,"staleTime":300,"varyParams":"$W4","buildId":"-VI79BGWWQJHNeh3rsLqb"}
